@@ -1,3 +1,5 @@
+<h1>Hello, this is an update</h1>
+
 <?php
 
 	$conn = new mysqli("localhost", "root", "", "kaizensy_kaizendb");
