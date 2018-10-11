@@ -1,3 +1,5 @@
 Sample file.
 
 Please refer to the website for more instructions.
+
+Changes made for sample-branch
